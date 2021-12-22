@@ -1,0 +1,6 @@
+# macOS and JetBrains
+.idea/
+.DS_Store
+
+# samples
+data/
